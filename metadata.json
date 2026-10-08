@@ -1,0 +1,6 @@
+{
+  "name": "RallySphere",
+  "description": "Integrated Badminton Court Booking, Player Management, Match Scheduling & Performance Analytics Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
